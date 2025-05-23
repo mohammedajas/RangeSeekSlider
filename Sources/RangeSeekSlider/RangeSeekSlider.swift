@@ -1,11 +1,5 @@
-//
-//  RangeSeekSlider.swift
-//  RangeSeekSlider
-//
-//  Created by Keisuke Shoji on 2017/03/09.
-//
-//
-
+// The Swift Programming Language
+// https://docs.swift.org/swift-book
 import UIKit
 
 @IBDesignable open class RangeSeekSlider: UIControl {
